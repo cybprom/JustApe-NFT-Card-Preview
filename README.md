@@ -22,7 +22,7 @@ This is an NFT preview card i made for JustApe NFT to show the love and support 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](images/desktop%20screenshot.png)
 
 ### Links
 

@@ -128,7 +128,8 @@ hr {
   align-items: wrap;
   margin-bottom: 10px;
   margin-top: 5px;
-  margin-left: -40px;
+  /* margin-left: -40px; */
+  margin-left: -10px;
   font-size: xx-small;
 }
 

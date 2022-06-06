@@ -29,10 +29,18 @@ body {
   padding: 27px;
   border-radius: 3%;
   background-color: hsl(216, 50%, 16%);
+  transition: transform 500ms ease;
+}
+
+.cardimg:hover {
+  transform: scale(1.05);
 }
 
 .imgequ {
-  position: relative;
+  /* position: relative; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border-radius: 8px;
   overflow: hidden;
   cursor: pointer;
@@ -55,6 +63,15 @@ body {
 .imgequ img {
   width: 100%;
   display: block;
+}
+
+img {
+  cursor: zoom-in;
+  transition: .5s;
+}
+
+img:hover {
+  transform: scale(1.2);
 }
 
 h2, a {
